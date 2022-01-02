@@ -1,6 +1,6 @@
 
 import { _decorator, Component, Node, Label, ProgressBar } from 'cc';
-const { ccclass, property } = cc._decorator;
+const { ccclass, property } = _decorator;
 
 @ccclass('UpdatePanel')
 export class UpdatePanel extends Component {
