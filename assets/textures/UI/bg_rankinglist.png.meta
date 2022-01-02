@@ -1,74 +1,36 @@
 {
-  "ver": "1.0.21",
-  "importer": "image",
-  "imported": true,
+  "ver": "2.3.4",
   "uuid": "700faa17-11a6-46cd-aeb5-d6900bc264f8",
-  "files": [
-    ".png",
-    ".json"
-  ],
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 504,
+  "height": 144,
+  "platformSettings": {},
   "subMetas": {
-    "6c48a": {
-      "importer": "texture",
+    "bg_rankinglist": {
+      "ver": "1.0.4",
       "uuid": "700faa17-11a6-46cd-aeb5-d6900bc264f8@6c48a",
-      "displayName": "bg_rankinglist",
-      "id": "6c48a",
-      "name": "texture",
-      "userData": {
-        "imageUuidOrDatabaseUri": "700faa17-11a6-46cd-aeb5-d6900bc264f8",
-        "wrapModeS": "clamp-to-edge",
-        "wrapModeT": "clamp-to-edge",
-        "minfilter": "linear",
-        "magfilter": "linear",
-        "mipfilter": "none",
-        "anisotropy": 0,
-        "isUuid": true
-      },
-      "ver": "1.0.21",
-      "imported": true,
-      "files": [
-        ".json"
-      ],
-      "subMetas": {}
-    },
-    "f9941": {
-      "importer": "sprite-frame",
-      "uuid": "700faa17-11a6-46cd-aeb5-d6900bc264f8@f9941",
-      "displayName": "bg_rankinglist",
-      "id": "f9941",
-      "name": "spriteFrame",
-      "userData": {
-        "trimType": "auto",
-        "trimThreshold": 1,
-        "rotated": false,
-        "offsetX": 0,
-        "offsetY": 0,
-        "trimX": 0,
-        "trimY": 0,
-        "width": 504,
-        "height": 144,
-        "rawWidth": 504,
-        "rawHeight": 144,
-        "borderTop": 69,
-        "borderBottom": 36,
-        "borderLeft": 36,
-        "borderRight": 36,
-        "imageUuidOrDatabaseUri": "700faa17-11a6-46cd-aeb5-d6900bc264f8@6c48a",
-        "isUuid": true,
-        "atlasUuid": "",
-        "packable": true
-      },
-      "ver": "1.0.9",
-      "imported": true,
-      "files": [
-        ".json"
-      ],
+      "rawTextureUuid": "700faa17-11a6-46cd-aeb5-d6900bc264f8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 504,
+      "height": 144,
+      "rawWidth": 504,
+      "rawHeight": 144,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
       "subMetas": {}
     }
-  },
-  "userData": {
-    "type": "sprite-frame",
-    "hasAlpha": true,
-    "redirect": "700faa17-11a6-46cd-aeb5-d6900bc264f8@f9941"
   }
 }
